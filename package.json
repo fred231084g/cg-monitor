@@ -4,7 +4,7 @@
     "limited-request-queue": "^5.1.0",
     "node-fetch": "^2.6.1",
     "nodemw": "^0.12.2",
-    "parse-link-header": "^1.0.1",
+    "parse-link-header": "^2.0.0",
     "promisify": "0.0.3",
     "rss-parser": "^3.5.4"
   }
