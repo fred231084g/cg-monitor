@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "jsdom": "^13.0.0",
+    "jsdom": "^16.5.0",
     "limited-request-queue": "^5.1.0",
     "node-fetch": "^2.6.1",
     "nodemw": "^0.12.2",
